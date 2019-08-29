@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://hozan7.github.io/erbil-aero-club/weather.html",
+            "url": "https://hozan7.github.io/erbil-aero-club/weather.html",
+            "title": "Weather",
+            "content_html": "<p><iframe width=\"820\" height=\"650\" style=\"with: 100% !important;\" src=\"https://embed.windy.com/embed2.html?lat=36.208&amp;lon=44.119&amp;zoom=10&amp;level=surface&amp;overlay=wind&amp;menu=&amp;message=&amp;marker=&amp;calendar=&amp;pressure=&amp;type=map&amp;location=coordinates&amp;detail=&amp;detailLat=36.208&amp;detailLon=44.119&amp;metricWind=default&amp;metricTemp=default&amp;radarRange=-1\" frameborder=\"0\"></iframe>\n<script src=\"https://darksky.net/map-embed/@wind_speed,36.167,44.125,9.js?embed=true&amp;timeControl=true&amp;fieldControl=true&amp;defaultField=wind_speed&amp;defaultUnits=_mph\"></script>\n</p>",
+            "image": "https://hozan7.github.io/erbil-aero-club/media/posts/3/paragliding-wallpapers-31286-4914666.jpg",
+            "author": {
+                "name": "Erbil Aero CLub"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-29T23:37:51+03:00",
+            "date_modified": "2019-08-29T23:51:05+03:00"
+        },
+        {
             "id": "https://hozan7.github.io/erbil-aero-club/what-is-paragliding.html",
             "url": "https://hozan7.github.io/erbil-aero-club/what-is-paragliding.html",
             "title": "What is paragliding",
