@@ -3,10 +3,33 @@
     <title>Erbil Aero Club</title>
     <link href="https://hozan7.github.io/erbil-aero-club/feed.xml" rel="self" />
     <link href="https://hozan7.github.io/erbil-aero-club" />
-    <updated>1970-01-01T03:00:00+03:00</updated>
+    <updated>2019-08-29T22:59:05+03:00</updated>
     <author>
-        <name>Hozan Saeed</name>
+        <name>Erbil Aero CLub</name>
     </author>
     <id>https://hozan7.github.io/erbil-aero-club</id>
 
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>Erbil Aero CLub</name>
+        </author>
+        <link href="https://hozan7.github.io/erbil-aero-club/gallery.html"/>
+        <id>https://hozan7.github.io/erbil-aero-club/gallery.html</id>
+
+        <updated>2019-08-29T22:58:26+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding_2-wallpaper-3840x2400.jpg" ><img src="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding_2-wallpaper-3840x2400-thumbnail.jpg" alt="" width="720" height="450"></a></figure>
+<figure class="gallery__item"><a href="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding-wallpapers-31286-4803337.jpg" ><img src="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding-wallpapers-31286-4803337-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding_2-wallpaper-3840x2400.jpg" ><img src="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding_2-wallpaper-3840x2400-thumbnail.jpg" alt="" width="720" height="450"></a></figure>
+<figure class="gallery__item"><a href="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding-wallpapers-31286-1098650.jpg" ><img src="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding-wallpapers-31286-1098650-thumbnail.jpg" alt="" width="720" height="450"></a></figure>
+<figure class="gallery__item"><a href="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding-wallpapers-31286-1745831.jpg" ><img src="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding-wallpapers-31286-1745831-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding-wallpapers-31286-4914666.jpg" ><img src="https://hozan7.github.io/erbil-aero-club/media/posts/1/gallery/paragliding-wallpapers-31286-4914666-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
 </feed>
