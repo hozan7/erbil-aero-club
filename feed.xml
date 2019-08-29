@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Erbil Aero Club</title>
+    <link href="https://hozan7.github.io/erbil-aero-club/feed.xml" rel="self" />
+    <link href="https://hozan7.github.io/erbil-aero-club" />
+    <updated>1970-01-01T03:00:00+03:00</updated>
+    <author>
+        <name>Hozan Saeed</name>
+    </author>
+    <id>https://hozan7.github.io/erbil-aero-club</id>
+
+</feed>
